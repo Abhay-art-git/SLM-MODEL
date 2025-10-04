@@ -1,0 +1,475 @@
+Resume,JSON 
+"CASPIAN YATES
+Associate Front End Developer
+c.yates@email.com (123) 456-7890 Seattle, WA
+WORK EXPERIENCE
+Associate Front End Developer - Expedia Group (2022 - current / Seattle, WA)
+- Managed Visual Studio Code to debug and optimize front-end code, achieving a 17% rise in overall application speed.
+- Leveraged Yarn caching mechanisms, reducing build time from 24 to 18 minutes.
+- Enhanced website security using Joomla-specific extensions, addressing 21% of unauthorized access attempts.
+- Implemented error handling and logging for GraphQL, cutting runtime errors by 29%.
+
+Web Developer - Zillow (2019 - 2022 / Seattle, WA)
+- Reduced cache miss rates by 33% with Gulp-based versioning.
+- Built a responsive menu with Bootstrap, lowering drop-offs by 14%.
+- Ensured cross-browser compatibility, boosting traffic 28%.
+- Introduced React SPA, reducing bounce rate by 22%.
+
+Junior Web Developer - Redfin (2017 - 2019 / Seattle, WA)
+- Automated workflows with GitHub webhooks, saving 18 hrs/month.
+- Performed cross-browser testing with Mocha, reducing issues by 26%.
+- Debugged complex issues, cutting critical bug reports by 12%.
+- Optimized HTML5 video embedding, reducing complaints by 43%.
+
+EDUCATION
+B.Sc. Computer Science - University of Washington (2013 - 2017, Seattle, WA)
+
+SKILLS
+HTML5, React.js, GitHub, Yarn, Gulp, Joomla, Mocha, GraphQL, Bootstrap, VS Code
+
+","{""status"": ""1"", ""alert"": ""0"", ""message"": ""Successfully analyzed and parsed resume PDF"", ""token"": """", ""data"": { ""parsedData"": { ""Name"": ""CASPIAN YATES"", ""Mobile_Number"": ""(123) 456-7890"", ""Address"": ""Seattle, WA"", ""City"": ""Seattle"", ""Zip_Code"": null,
+            ""State"": ""Washington"",  ""Country"": ""USA"",  ""Email"": ""c.yates@email.com"", ""LinkedIn"": null,  ""GitHub"": null,
+            ""Experience"": [{ ""Job_Title"": ""Associate Front End Developer"",
+                    ""Company"": ""Expedia Group"",
+                    ""Start_Date"": ""2022-01-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Debugged and optimized front-end code, improving app speed by 17%. Leveraged Yarn caching, reducing build time from 24 ? 18 mins. Improved website security with Joomla extensions, blocking 21% threats. Implemented GraphQL error handling, cutting runtime errors by 29%.""  },
+                { ""Job_Title"": ""Web Developer"", ""Company"": ""Zillow"",
+                    ""Start_Date"": ""2019-01-01"",
+                    ""End_Date"": ""2022-01-01"",
+                    ""Description"": ""Reduced cache misses 33% with Gulp-based versioning. Built responsive nav menu with Bootstrap, drop-offs ?14%. Ensured cross-browser support, traffic ?28%. Introduced React SPA, bounce rate ?22%.""  },
+                { ""Job_Title"": ""Junior Web Developer"",  ""Company"": ""Redfin"",
+                    ""Start_Date"": ""2017-01-01"",
+                    ""End_Date"": ""2019-01-01"",
+                    ""Description"": ""Automated workflow with GitHub webhooks, saving 18 hrs/month. Performed Mocha testing, issues ?26%. Debugged complex issues, critical bugs ?12%. Optimized HTML5 video embedding, buffering complaints ?43%."" } ],
+            ""Education"": [{  ""Degree"": ""Bachelor of Science in Computer Science"",
+                    ""Institution"": ""University of Washington"",
+                    ""Graduation_Start_Date"": ""2013-01-01"",
+                    ""Graduation_End_Date"": ""2017-01-01""  }  ],
+            ""Years_of_Experience"": ""6.0"",
+            ""Skills"": [""HTML5"",  ""React.js"",  ""GitHub"", ""Yarn"",  ""Gulp"", ""Joomla"", ""Mocha"",""GraphQL"",""Bootstrap"", ""Visual Studio Code"" ],
+            ""Languages"": []  } } }
+"
+"SELENE WHITAKER
+AEM Front End Developer
+s.whitaker@email.com (123) 456-7890 Pittsburgh, PA
+LinkedIn | GitHub
+
+EDUCATION
+B.Sc. Computer Science - Carnegie Mellon University (2014 - 2017, Pittsburgh, PA)
+
+SKILLS
+AEM Sites, React.js, HTML5, ES6+, Git, Gulp, Jasmine, WordPress, Adobe XD, Jenkins
+
+WORK EXPERIENCE
+AEM Front End Developer - Uber ATG (2023 - current / Pittsburgh, PA)
+- Enhanced user engagement by 57% via AEM personalization.
+- Reduced runtime errors by 29% with ES6+ async/await.
+- Improved code quality by 19% using Gulp automation.
+- Decreased merge conflicts by 39% with Jenkins multi-branch pipelines.
+
+Front End Developer - Bosch RTC (2020 - 2023 / Pittsburgh, PA)
+- Reduced load times by 1.2s via lazy loading and code splitting.
+- Prototyped in Adobe XD, resolving 46% UX issues pre-dev.
+- Maintained cross-browser performance (+8.3% user base).
+- Improved test precision by 22% with Jasmine spies/mocks.
+
+Junior Front End Developer - Philips (2017 - 2020 / Pittsburgh, PA)
+- Boosted user interaction by 9% with HTML5 drag-and-drop.
+- Lowered bounce rate 16% via WordPress widgets.
+- Reduced integration issues 11% with tailored Git strategy.
+- Achieved 93% on-time delivery in project delivery.
+","{ ""status"": ""1"", ""alert"": ""0"", ""message"": ""Successfully analyzed and parsed resume PDF"", ""token"": """", ""data"": { ""parsedData"": { ""Name"": ""SELENE WHITAKER"", ""Mobile_Number"": ""(123) 456-7890"", ""Address"": ""Pittsburgh, PA, USA"", ""City"": ""Pittsburgh"", ""Zip_Code"": null,
+            ""State"": ""Pennsylvania"", ""Country"": ""USA"", ""Email"": ""s.whitaker@email.com"", ""LinkedIn"": ""LinkedIn"",""GitHub"": ""GitHub"",
+            ""Experience"": [  { ""Job_Title"": ""AEM Front End Developer"",
+                    ""Company"": ""Uber ATG"",
+                    ""Start_Date"": ""2023-01-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Enhanced user engagement by 57% via AEM personalization. Reduced runtime errors by 29% with ES6+ async/await. Improved code quality by 19% using Gulp automation. Decreased merge conflicts by 39% with Jenkins multi-branch pipelines."" }, { ""Job_Title"": ""Front End Developer"",
+                    ""Company"": ""Bosch RTC"",
+                    ""Start_Date"": ""2020-01-01"",
+                    ""End_Date"": ""2023-01-01"",
+                    ""Description"": ""Reduced load times by 1.2s via lazy loading and code splitting. Prototyped in Adobe XD, resolving 46% UX issues pre-dev. Maintained cross-browser performance (+8.3% user base). Improved test precision by 22% with Jasmine spies/mocks."" },  {""Job_Title"": ""Junior Front End Developer"",
+                    ""Company"": ""Philips"",
+                    ""Start_Date"": ""2017-01-01"",
+                    ""End_Date"": ""2020-01-01"",
+                    ""Description"": ""Boosted user interaction by 9% with HTML5 drag-and-drop. Lowered bounce rate 16% via WordPress widgets. "" } ],
+            ""Education"": [  { ""Degree"": ""Bachelor of Science in Computer Science"",
+                    ""Institution"": ""Carnegie Mellon University"",
+                    ""Graduation_Start_Date"": ""2014-01-01"",
+                    ""Graduation_End_Date"": ""2017-01-01"" }  ],
+            ""Years_of_Experience"": ""6.0"",
+            ""Skills"": [ ""AEM Sites"",  ""React.js"", ""HTML5"",""ES6+"", ""Git"",""Gulp"",""Jasmine"", ""WordPress"",  ""Adobe XD"", ""Jenkins""],
+            ""Languages"": []  }}}
+"
+"KAREN SANTOS
+Senior Front-End Developer
+k.santos@email.com (123) 456-7890 Brooklyn, NY
+LinkedIn
+
+WORK EXPERIENCE
+Senior Front-End Developer - GitHub (2017 - current / New York, NY)
+- Led a team of 5 to create GitHub pages.
+- Implemented AWS for scalable infrastructure.
+- Wrote MaterialUI documentation, reducing onboarding by 3 weeks.
+- Mentored 8 junior devs (React, Angular, JS).
+- Improved project efficiency by 10% with agile methods.
+- Fixed QA-reported issues within 48 hrs.
+
+Front-End Developer - DTX (2012 - 2017 / New York, NY)
+- Early adoption of React.js.
+- Increased traffic 600% with SEO & Accessibility compliance.
+- Shipped thousands of lines bug-free.
+- Boosted efficiency 12% via Kanban.
+- Created 100+ responsive landing pages.
+- Maintained UI branding consistency.
+
+EDUCATION
+B.Sc. Computer Science - Rutgers University (2008 - 2012)
+
+SKILLS
+HTML, CSS, JavaScript, React, jQuery, Angular.js, Vue.js, Enzyme, Jest, Git
+","{ ""status"": ""1"", ""alert"": ""0"", ""message"": ""Successfully analyzed and parsed resume PDF"", ""token"": """", ""data"": { ""parsedData"": { ""Name"": ""KAREN SANTOS"",  ""Mobile_Number"": ""(123) 456-7890"",""Address"": ""Brooklyn, NY, USA"", ""City"": ""Brooklyn"", ""Zip_Code"": null,
+            ""State"": ""New York"",   ""Country"": ""USA"", ""Email"": ""k.santos@email.com"", ""LinkedIn"": ""LinkedIn"", ""GitHub"": null,
+            ""Experience"": [ {  ""Job_Title"": ""Senior Front-End Developer"",
+                    ""Company"": ""GitHub"",
+                    ""Start_Date"": ""2017-01-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Led a team of 5 to create GitHub pages. Implemented AWS for scalable infrastructure. Wrote MaterialUI documentation, reducing onboarding by 3 weeks. Mentored 8 junior devs (React, Angular, JS). Improved project efficiency by 10% with agile methods. Fixed QA-reported issues within 48 hrs."" },
+             { ""Job_Title"": ""Front-End Developer"",
+                    ""Company"": ""DTX"",
+                    ""Start_Date"": ""2012-01-01"",
+                    ""End_Date"": ""2017-01-01"",
+                    ""Description"": ""Early adoption of React.js. Increased traffic 600% with SEO & Accessibility compliance. Shipped thousands of lines bug-free. Boosted efficiency 12% via Kanban. Created 100+ responsive landing pages. Maintained UI branding consistency."" } ],   ""Education"": [ {
+                    ""Degree"": ""Bachelor of Science in Computer Science"",
+                    ""Institution"": ""Rutgers University"",
+                    ""Graduation_Start_Date"": ""2008-01-01"",
+                    ""Graduation_End_Date"": ""2012-01-01"" } ],
+            ""Years_of_Experience"": ""11.0"",
+            ""Skills"": [ ""HTML"",  ""CSS"", ""JavaScript"", ""React"",""jQuery"", ""Angular.js"",  ""Vue.js"", ""Enzyme"",""Jest"", ""Git"" ],
+            ""Languages"": []  }}}
+"
+"CASPIAN YATES
+Associate Front End Developer
+c.yates@email.com (123) 456-7890 Seattle, WA
+WORK EXPERIENCE
+Associate Front End Developer � Expedia Group (2022 - current / Seattle, WA)
+- Debugged and optimized front-end code, improving app speed by 17%.
+- Leveraged Yarn caching, reducing build time from 24 ? 18 mins.
+- Improved website security with Joomla extensions, blocking 21% threats.
+- Implemented GraphQL error handling, cutting runtime errors by 29%.
+
+Web Developer � Zillow (2019 - 2022 / Seattle, WA)
+- Reduced cache misses 33% with Gulp-based versioning.
+- Built responsive nav menu with Bootstrap, drop-offs ?14%.
+- Ensured cross-browser support, traffic ?28%.
+- Introduced React SPA, bounce rate ?22%.
+
+Junior Web Developer � Redfin (2017 - 2019 / Seattle, WA)
+- Automated workflow with GitHub webhooks, saving 18 hrs/month.
+- Performed Mocha testing, issues ?26%.
+- Debugged complex issues, critical bugs ?12%.
+- Optimized HTML5 video embedding, buffering complaints ?43%.
+
+EDUCATION
+B.Sc. Computer Science � University of Washington (2013 - 2017, Seattle, WA)
+
+SKILLS
+HTML5, React.js, GitHub, Yarn, Gulp, Joomla, Mocha, GraphQL, Bootstrap, VS Code
+","{""status"": ""1"", ""alert"": ""0"", ""message"": ""Successfully analyzed and parsed resume PDF"", ""token"": """",""data"": { ""parsedData"": { ""Name"": ""CASPIAN YATES"",""Mobile_Number"": ""(123) 456-7890"",""Address"": ""Seattle, WA, USA"", ""City"": ""Seattle"", ""Zip_Code"": null,
+            ""State"": ""Washington"", ""Country"": ""USA"",""Email"": ""c.yates@email.com"", ""LinkedIn"": null, ""GitHub"": null,
+            ""Experience"": [ {  ""Job_Title"": ""Associate Front End Developer"",
+                    ""Company"": ""Expedia Group"",
+                    ""Start_Date"": ""2022-01-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Debugged and optimized front-end code, improving app speed by 17%. Leveraged Yarn caching, reducing build time from 24 to 18 minutes. Improved website security with Joomla extensions, blocking 21% threats. Implemented GraphQL error handling, cutting runtime errors by 29%."" },
+                { ""Job_Title"": ""Web Developer"",
+                    ""Company"": ""Zillow"",
+                    ""Start_Date"": ""2019-01-01"",
+                    ""End_Date"": ""2022-01-01"",
+                    ""Description"": ""Reduced cache misses 33% with Gulp-based versioning. Built responsive nav menu with Bootstrap, drop-offs ?14%. Ensured cross-browser support, traffic ?28%. Introduced React SPA, bounce rate ?22%."" },
+                {""Job_Title"": ""Junior Web Developer"",
+                    ""Company"": ""Redfin"",
+                    ""Start_Date"": ""2017-01-01"",
+                    ""End_Date"": ""2019-01-01"",
+                    ""Description"": ""Automated workflow with GitHub webhooks, saving 18 hrs/month. Performed Mocha testing, issues ?26%. Debugged complex issues, critical bugs ?12%. Optimized HTML5 video embedding, buffering complaints ?43%."" }  ],
+            ""Education"": [ { ""Degree"": ""Bachelor of Science in Computer Science"",
+                    ""Institution"": ""University of Washington"",
+                    ""Graduation_Start_Date"": ""2013-01-01"",
+                    ""Graduation_End_Date"": ""2017-01-01"" }],
+            ""Years_of_Experience"": ""6.0"",
+            ""Skills"": [ ""HTML5"", ""React.js"", ""GitHub"", ""Yarn"", ""Gulp"", ""Joomla"", ""Mocha"", ""GraphQL"",""Bootstrap"",  ""Visual Studio Code"" ],
+            ""Languages"": [] }}}
+"
+"SELENE WHITAKER
+AEM Front End Developer
+s.whitaker@email.com | (123) 456-7890 | Pittsburgh, PA
+LinkedIn | GitHub
+
+EDUCATION
+B.Sc. Computer Science � Carnegie Mellon University (2014 - 2017, Pittsburgh, PA)
+
+SKILLS
+AEM Sites, React.js, HTML5, ES6+, Git, Gulp, Jasmine, WordPress, Adobe XD, Jenkins
+
+WORK EXPERIENCE
+Uber ATG � AEM Front End Developer (2023 - current / Pittsburgh, PA)
+- Enhanced engagement +57% via AEM personalization.
+- Reduced errors 29% with ES6 async/await.
+- Automated testing with Gulp, defects ?19%.
+- Used Jenkins pipelines, merge conflicts ?39%.
+
+Bosch RTC � Front End Developer (2020 - 2023 / Pittsburgh, PA)
+- Lazy loading reduced load times by 1.2s.
+- Adobe XD prototypes resolved 46% UX issues pre-dev.
+- Ensured cross-browser support, user base ?8.3%.
+- Jasmine spies improved test precision 22%.
+
+Philips � Junior Front End Developer (2017 - 2020 / Pittsburgh, PA)
+- HTML5 drag-and-drop improved interaction +9%.
+- WordPress widgets lowered bounce rate 16%.
+- Git strategy reduced integration issues 11%.
+- 93% on-time delivery across sprints.
+","{ ""status"": ""1"", ""alert"": ""0"", ""message"": ""Successfully analyzed and parsed resume PDF"", ""token"": """", ""data"": { ""parsedData"": { ""Name"": ""SELENE WHITAKER"", ""Mobile_Number"": ""(123) 456-7890"", ""Address"": ""Pittsburgh, PA, USA"",  ""City"": ""Pittsburgh"", ""Zip_Code"": null,
+            ""State"": ""Pennsylvania"", ""Country"": ""USA"", ""Email"": ""s.whitaker@email.com"", ""LinkedIn"": ""LinkedIn"", ""GitHub"": ""GitHub"",
+            ""Experience"": [ { ""Job_Title"": ""AEM Front End Developer"",
+                    ""Company"": ""Uber ATG"",
+                    ""Start_Date"": ""2023-01-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Enhanced engagement +57% via AEM personalization. Reduced errors 29% with ES6 async/await. Automated testing with Gulp, defects ?19%. Used Jenkins pipelines, merge conflicts ?39%.""  },
+                {  ""Job_Title"": ""Front End Developer"",
+                    ""Company"": ""Bosch RTC"",
+                    ""Start_Date"": ""2020-01-01"",
+                    ""End_Date"": ""2023-01-01"",
+                    ""Description"": ""Lazy loading reduced load times by 1.2s. Adobe XD prototypes resolved 46% UX issues pre-dev. Ensured cross-browser support, user base ?8.3%. Jasmine spies improved test precision 22%."" },
+                { ""Job_Title"": ""Junior Front End Developer"",
+                    ""Company"": ""Philips"",
+                    ""Start_Date"": ""2017-01-01"",
+                    ""End_Date"": ""2020-01-01"",
+                    ""Description"": ""HTML5 drag-and-drop improved interaction +9%. WordPress widgets lowered bounce rate 16%."" }],
+            ""Education"": [ { ""Degree"": ""Bachelor of Science in Computer Science"",
+                    ""Institution"": ""Carnegie Mellon University"",
+                    ""Graduation_Start_Date"": ""2014-01-01"",
+                    ""Graduation_End_Date"": ""2017-01-01""  } ],
+            ""Years_of_Experience"": ""6.0"",
+            ""Skills"": [ ""AEM Sites"",  ""React.js"",  ""HTML5"", ""ES6+"", ""Git"", ""Gulp"", ""Jasmine"", ""WordPress"",""Adobe XD"",  ""Jenkins"" ],
+            ""Languages"": []
+        }
+    }
+}
+"
+"KAREN SANTOS
+Senior Front-End Developer
+k.santos@email.com | (123) 456-7890 | Brooklyn, NY
+LinkedIn
+
+WORK EXPERIENCE
+GitHub � Senior Front-End Developer (2017 - current / New York, NY)
+- Led team of 5 creating GitHub Pages.
+- Implemented AWS infra for scalability.
+- Authored MaterialUI docs, saved 3-week onboarding.
+- Mentored 8 juniors (React, Angular, JS).
+- Boosted efficiency +10% with Agile standups.
+- Fixed QA issues within 48 hrs.
+
+DTX � Front-End Developer (2012 - 2017 / New York, NY)
+- Early React.js adoption.
+- SEO/Accessibility rewrites ? 600% traffic increase.
+- Shipped thousands of lines bug-free.
+- Introduced Kanban boards, efficiency ?12%.
+- Created 100+ responsive landing pages.
+- Maintained UI branding standards.
+
+EDUCATION
+Rutgers University � B.Sc. Computer Science (2008 - 2012)
+
+SKILLS
+HTML, CSS, JavaScript, React, jQuery, Angular.js, Vue.js, Enzyme, Jest, Git
+","{ ""status"": ""1"", ""alert"": ""0"",  ""message"": ""Successfully analyzed and parsed resume PDF"", ""token"": """", ""data"": { ""parsedData"": { ""Name"": ""KAREN SANTOS"", ""Mobile_Number"": ""(123) 456-7890"", ""Address"": ""Brooklyn, NY, USA"", ""City"": ""Brooklyn"", ""Zip_Code"": null,
+            ""State"": ""New York"", ""Country"": ""USA"",  ""Email"": ""k.santos@email.com"", ""LinkedIn"": ""LinkedIn"",  ""GitHub"": null,
+            ""Experience"": [ { ""Job_Title"": ""Senior Front-End Developer"",
+                    ""Company"": ""GitHub"",
+                    ""Start_Date"": ""2017-01-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Led a team of 5 to create GitHub pages. Implemented AWS for scalable infrastructure. Wrote MaterialUI documentation, reducing onboarding by 3 weeks. Mentored 8 junior devs (React, Angular, JS). Improved project efficiency by 10% with agile methods. Fixed QA-reported issues within 48 hrs.""},
+               { ""Job_Title"": ""Front-End Developer"",
+                    ""Company"": ""DTX"",
+                    ""Start_Date"": ""2012-01-01"",
+                    ""End_Date"": ""2017-01-01"",
+                    ""Description"": ""Early adoption of React.js. Increased traffic 600% with SEO & Accessibility compliance. Shipped thousands of lines bug-free. Boosted efficiency 12% via Kanban. Created 100+ responsive landing pages. Maintained UI branding consistency.""
+ } ],
+            ""Education"": [ { ""Degree"": ""Bachelor of Science in Computer Science"",
+                    ""Institution"": ""Rutgers University"",
+                    ""Graduation_Start_Date"": ""2008-01-01"",
+                    ""Graduation_End_Date"": ""2012-01-01"" }  ],
+            ""Years_of_Experience"": ""11.0"",
+            ""Skills"": [""HTML"", ""CSS"",  ""JavaScript"", ""React"", ""jQuery"",   ""Angular.js"", ""Vue.js"", ""Enzyme"", ""Jest"", ""Git""  ],
+            ""Languages"": [] }
+    }
+}
+"
+"DEE NITAO
+Junior Front-End Developer
+d.nitao@email.com | (123) 456-7890 | Hayward, CA
+LinkedIn | GitHub
+
+EDUCATION
+B.Sc. Computer Engineering � Cal State Hayward (2015 - 2019, GPA 3.7)
+
+SKILLS
+HTML, CSS, JavaScript, React.js, Node.js, Angular.js, WordPress, Bootstrap, NoSQL, Agile/Scrum
+
+CERTIFICATION
+AWS
+
+OBJECTIVE
+CS graduate, eager to grow in JavaScript, accessibility, responsive design.
+
+WORK EXPERIENCE
+Guess Inc � Entry-level Front-End Developer (2019 - current / Remote)
+- Maintained 20+ web pages and e-commerce sites.
+- Produced 6+ marketing campaigns.
+- Debugged 1000+ issues across sites.
+- Developed 6 WordPress sites with team.
+
+Punch � Front-End Developer Intern (2019 / Daly City, CA)
+- Maintained 8 sites.
+- Implemented 5 new web pages.
+- Assisted in 6 projects with best practices.
+- Helped acquire 4 clients via research.
+","{ ""status"": ""1"", ""alert"": ""0"",  ""message"": ""Successfully analyzed and parsed resume PDF"", ""token"": """", ""data"": {""parsedData"": { ""Name"": ""DEE NITAO"", ""Mobile_Number"": ""(123) 456-7890"", ""Address"": ""Hayward, CA, USA"", ""City"": ""Hayward"", ""Zip_Code"": null,
+            ""State"": ""California"", ""Country"": ""USA"",  ""Email"": ""d.nitao@email.com"",  ""LinkedIn"": ""LinkedIn"",""GitHub"": ""GitHub"",
+            ""Experience"": [  { ""Job_Title"": ""Entry-level Front-End Developer"",
+                    ""Company"": ""Guess Inc"",
+                    ""Start_Date"": ""2019-09-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Maintained 20+ web pages and e-commerce sites. Produced 6+ marketing campaigns. Debugged 1000+ issues across sites. Developed 6 WordPress sites with team."" },
+                { ""Job_Title"": ""Front-End Developer Intern"",
+                    ""Company"": ""Punch"",
+                    ""Start_Date"": ""2019-06-01"",
+                    ""End_Date"": ""2019-09-01"",
+                    ""Description"": ""Maintained 8 sites. Implemented 5 new web pages. "" }  ],
+            ""Education"": [ { ""Degree"": ""Bachelor of Science in Computer Engineering"",
+                    ""Institution"": ""Cal State Hayward"",
+                    ""Graduation_Start_Date"": ""2015-09-01"",
+                    ""Graduation_End_Date"": ""2019-06-01""
+                } ],
+            ""Years_of_Experience"": ""4.0"",
+            ""Skills"": [ ""HTML"",  ""CSS"",  ""JavaScript"",  ""React.js"", ""Node.js"",""Angular.js"", ""WordPress"", ""Bootstrap"",""NoSQL"", ""Agile/Scrum""  ],
+            ""Languages"": []
+  }
+    }
+}
+"
+"ALEX CARTER
+Angular Front End Developer
+a.carter@email.com | (123) 456-7890 | West Chester, PA
+LinkedIn
+
+EDUCATION
+B.Sc. Computer Science � Carnegie Mellon (2014 - 2017)
+
+SKILLS
+Angular CLI, VS Code, CSS Grid, ES6, Git, npm, Webpack, Postman, Bootstrap
+
+WORK EXPERIENCE
+QVC � Angular Developer (2022 - current / West Chester, PA)
+- Angular CLI configs improved performance +26%.
+- VS Code optimizations saved ~34 mins per task.
+- CSS Grid reduced page load times 2.7s.
+- npm testing boosted coverage, bugs ?18%.
+
+TD Bank � Associate Front End Developer (2019 - 2022 / Mount Laurel, PA)
+- ES6 modularity reduced dependency issues 21%.
+- Webpack tree-shaking shrank bundle size 14%.
+- API validation with Postman reduced bugs 11%.
+- Built React UIs for banking, satisfaction ?53%.
+
+TE Connectivity � Junior Developer (2017 - 2019 / Harrisburg, PA)
+- Resolved merge conflicts, downtime ?29%.
+- SASS preprocessing reduced styling issues 62%.
+- Customized Bootstrap, approval ?38%.
+","{ ""status"": ""1"", ""alert"": ""0"", ""message"": ""Successfully analyzed and parsed resume PDF"", ""token"": """",  ""data"": { ""parsedData"": { ""Name"": ""ALEX CARTER"", ""Mobile_Number"": ""(123) 456-7890"",  ""Address"": ""West Chester, PA, USA"", ""City"": ""West Chester"", ""Zip_Code"": null,
+            ""State"": ""Pennsylvania"", ""Country"": ""USA"", ""Email"": ""a.carter@email.com"",  ""LinkedIn"": ""LinkedIn"", ""GitHub"": null,
+            ""Experience"": [ { ""Job_Title"": ""Angular Front End Developer"",
+                    ""Company"": ""QVC"",
+                    ""Start_Date"": ""2022-01-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Angular CLI configs improved performance +26%. VS Code optimizations saved ~34 mins per task. CSS Grid reduced page load times 2.7s. npm testing boosted coverage, bugs ?18%."" },
+                { ""Job_Title"": ""Associate Front End Developer"",
+                    ""Company"": ""TD Bank"",
+                    ""Start_Date"": ""2019-01-01"",
+                    ""End_Date"": ""2022-01-01"",
+                    ""Description"": ""ES6 modularity reduced dependency issues 21%. Webpack tree-shaking shrank bundle size 14%. API validation with Postman reduced bugs 11%. Built React UIs for banking, satisfaction ?53%.""  },
+                { ""Job_Title"": ""Junior Front End Developer"",
+                    ""Company"": ""TE Connectivity"",
+                    ""Start_Date"": ""2017-01-01"",
+                    ""End_Date"": ""2019-01-01"",
+                    ""Description"": ""Resolved merge conflicts, downtime ?29%. SASS preprocessing reduced styling issues 62%. "" } ],
+            ""Education"": [   { ""Degree"": ""Bachelor of Science in Computer Science"",
+                    ""Institution"": ""Carnegie Mellon University"",
+                    ""Graduation_Start_Date"": ""2014-01-01"",
+                    ""Graduation_End_Date"": ""2017-01-01""  } ],
+            ""Years_of_Experience"": ""6.0"",
+            ""Skills"": [ ""Angular CLI"", ""Visual Studio Code"", ""CSS Grid"", ""ES6"", ""Git"", ""npm"", ""Webpack"", ""Postman"", ""Bootstrap""  ],
+            ""Languages"": []
+        }
+    }
+}
+"
+"GRACE GARCIA
+Freelance Front-End Developer
+g.garcia@email.com | (123) 456-7890 | Fort Washington, PA
+LinkedIn | GitHub
+WORK EXPERIENCE
+Chariot Solutions � Front-End Developer (2021 - current)
+- Built REST APIs, reporting speed ?22%.
+- Created 200+ landing pages.
+- Selenium framework reduced bugs 12%.
+
+Urban Outfitters � Web Developer (2019 - 2021 / Philadelphia, PA)
+- Revamped refund UI, process faster 16%.
+- Customer forms reduced processing 33%.
+- Payment system for 50+ wallets.
+- Internal web apps boosted engagement +11%.
+
+Think Company � Web Designer (2017 - 2019)
+- Mobile app redesign ? downloads ?44%.
+- Email CTR ?61% via new templates.
+- Minified JS, load times ?71%.
+- Analytics-driven UX, +5k visitors/month.
+EDUCATION
+B.Sc. Computer Science � Carnegie Mellon (2013 - 2017)
+SKILLS
+HTML5, jQuery, Sass, Webpack, Bitbucket, Sublime Text, Firefox Layout
+CERTIFICATION
+CIW Certified Web Developer
+","{ ""status"": ""1"",  ""alert"": ""0"",  ""message"": ""Successfully analyzed and parsed resume PDF"",  ""token"": """",  ""data"": {  ""parsedData"": { ""Name"": ""GRACE GARCIA"", ""Mobile_Number"": ""(123) 456-7890"",   ""Address"": ""Fort Washington, PA, USA"", ""City"": ""Fort Washington"",
+   ""Zip_Code"": null,
+            ""State"": ""Pennsylvania"", ""Country"": ""USA"",""Email"": ""g.garcia@email.com"", ""LinkedIn"": ""LinkedIn"", ""GitHub"": ""GitHub"",
+            ""Experience"": [  {  ""Job_Title"": ""Front-End Developer"",
+                    ""Company"": ""Chariot Solutions"",
+                    ""Start_Date"": ""2021-01-01"",
+                    ""End_Date"": ""Present"",
+                    ""Description"": ""Built REST APIs, reporting speed ?22%. Created 200+ landing pages. Selenium framework reduced bugs 12%."" },
+                { ""Job_Title"": ""Web Developer"",
+                    ""Company"": ""Urban Outfitters"",
+                    ""Start_Date"": ""2019-01-01"",
+                    ""End_Date"": ""2021-01-01"",
+                    ""Description"": ""Revamped refund UI, process faster 16%. Customer forms reduced processing 33%. Payment system for 50+ wallets. Internal web apps boosted engagement +11%."" },
+                { ""Job_Title"": ""Web Designer"",
+                    ""Company"": ""Think Company"",
+                    ""Start_Date"": ""2017-01-01"",
+                    ""End_Date"": ""2019-01-01"",
+                    ""Description"": ""Mobile app redesign ? downloads ?44%. Email CTR ?61% via new templates. Minified JS, load times ?71%. Analytics-driven UX, +5k visitors/month.""  } ],
+            ""Education"": [ { ""Degree"": ""Bachelor of Science in Computer Science"",
+                    ""Institution"": ""Carnegie Mellon University"",
+                    ""Graduation_Start_Date"": ""2013-01-01"",
+                    ""Graduation_End_Date"": ""2017-01-01"" }  ],
+            ""Years_of_Experience"": ""6.0"",
+            ""Skills"": [ ""HTML5"", ""jQuery"", ""Sass"", ""Webpack"", ""Bitbucket"", ""Sublime Text"", ""Firefox Layout"" ],
+            ""Languages"": []
+        }
+    }
+}
+"
